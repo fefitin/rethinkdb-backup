@@ -26,7 +26,7 @@ RETHINKDB_CERT is optional but required by most RethinkDB hosted services.
 ## Execution
 
 ```
-node backup tablename
+node backup [tablename]
 ```
 
 Output can easily be written to file:
